@@ -3,8 +3,8 @@
 ## Tech Stack
 tdubs42/Newsfeed-Components is built on the following main stack:
 
-- [Less](http://lesscss.org/) – CSS Pre-processors / Extensions
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [Less](http://lesscss.org/) – CSS Pre-processors / Extensions
 - [ESLint](http://eslint.org/) – Code Review
 - [Parcel](https://parceljs.org/) – JS Build Tools / JS Task Runners
 
@@ -16,8 +16,8 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 tdubs42/Newsfeed-Components is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/1170/default_957cbc0168b4d37265e264469c888f776e57f42c.png' alt='Less'/> [Less](http://lesscss.org/) – CSS Pre-processors / Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1170/default_957cbc0168b4d37265e264469c888f776e57f42c.png' alt='Less'/> [Less](http://lesscss.org/) – CSS Pre-processors / Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
 - <img width='25' height='25' src='https://img.stackshare.io/service/8054/fC6Wad-S_400x400.jpg' alt='Parcel'/> [Parcel](https://parceljs.org/) – JS Build Tools / JS Task Runners
 
@@ -30,7 +30,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [tdubs42/Newsfeed-Components](https://github.com/tdubs42/Newsfeed-Components)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|7<br/>Tools used|01/05/24 <br/>Report generated|
+|7<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
